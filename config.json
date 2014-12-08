@@ -1,1 +1,6 @@
-{"aws-access-key":"AKIAJTO4AZMLCFDTHUJQ","aws-bucket-name":"webvomit","port":8463}
+{
+    "aws-access-key": "AKIAJTO4AZMLCFDTHUJQ",
+    "aws-bucket-name": "webvomit",
+    "aws-bucket-website": "webvomit.s3-website-us-east-1.amazonaws.com",
+    "port": 8463
+}
