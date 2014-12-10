@@ -93,7 +93,6 @@ a,
 #post-list li:hover .dates,
 #title:hover {
 	text-decoration: none; 
-	color: #5badf0;
 	color: #5694f1;
 }
 
@@ -146,9 +145,17 @@ h2 {
 	color: #bbb;
 }
 
+.post a:hover {
+	color: #222;
+}
+
+.post strong {
+	color: #555;
+}
+
 .post h2 {
 	margin-bottom:2 0px;
-	color: inherit;
+	color: #222;
 	font: 400 18px/1.7em "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
